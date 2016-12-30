@@ -1,0 +1,13 @@
+# Site settings
+title: Agile Dynamic
+email: matt@agiledynamic.com
+description: Boutique Consulting Firm
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
+
+twitter_username: agiledynamic
+github_username: agiledynamicllc
+linkedin_company: agile-dynamic
+
+# Build settings
+markdown: kramdown
